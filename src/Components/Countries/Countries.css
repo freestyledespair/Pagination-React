@@ -1,0 +1,16 @@
+.wrapper {
+    padding: 0;
+    width: 90%;
+    margin: auto;
+}
+
+.country {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid black
+}
+
+.country img {
+    width: 200px;
+}
